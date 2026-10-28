@@ -1,6 +1,8 @@
-# Stilltime
+# stilltime
 
-A calm, thoughtfully designed calendar and task manager to help you organize your time with more intention.
+A calm planner that syncs with Google Calendar & Tasks.
+
+Vanilla JS (Vite), modular architecture, OAuth token persistence, recurrence expansion, drag-and-drop scheduling.
 
 ## Features
 
